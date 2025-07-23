@@ -1,0 +1,17 @@
+# Ignore database and data files
+*.db
+*.sqlite
+data/
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code junk
+.vscode/
+
+# Python virtual environments
+env/
+venv/
+
+# System junk
+.DS_Store
+Thumbs.db
